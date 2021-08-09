@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 egg = "0.6.0"
+reduce = "0.1.4"
